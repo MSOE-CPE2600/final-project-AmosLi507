@@ -1,0 +1,7 @@
+# dependency files
+*.d
+#object files
+*.o
+# the exe file
+server
+client
